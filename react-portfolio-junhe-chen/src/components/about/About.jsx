@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me.jpeg'
+import ME from '../../assets/profile_pic.jpg'
 import {MdCastForEducation} from 'react-icons/md'
 import {GiSkills} from 'react-icons/gi'
 import {AiOutlineTool} from 'react-icons/ai'
